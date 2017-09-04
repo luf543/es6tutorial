@@ -15,7 +15,7 @@
 1. [函数的扩展](docs/function.md)
 1. [数组的扩展](docs/array.md)
 1. [对象的扩展](docs/object.md)
-1. [Symbol](docs/symbol)
+1. [Symbol](docs/symbol.md)
 1. [Set 和 Map 数据结构](docs/set-map.md)
 1. [Proxy](docs/proxy.md)
 1. [Reflect](docs/reflect.md)
